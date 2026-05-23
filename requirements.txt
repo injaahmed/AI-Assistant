@@ -1,0 +1,6 @@
+streamlit
+ollama
+PyPDF2
+duckduckgo-search
+pyttsx3
+SpeechRecognition
