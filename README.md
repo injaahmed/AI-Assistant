@@ -37,4 +37,4 @@ python -m streamlit run app.py
 
 ## Author
 
-Inja Ahmed
+Injamamul Ahmed
